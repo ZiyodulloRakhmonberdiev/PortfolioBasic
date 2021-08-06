@@ -54,7 +54,6 @@ const NavigationStyled = styled.nav`
    justify-content: space-between;
    width: 12.3rem;
    height: 100%;
-   background-color: var(--);
    border-right: 1px solid var(--border-color);
    .avatar{
        width: 80%;
