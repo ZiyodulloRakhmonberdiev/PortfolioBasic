@@ -12,7 +12,7 @@ function BlogsPage() {
     return (
         <MainLayout>
             <BlogsPageStyle> 
-                <Title title="blogs" title="blogs" />
+                <Title title="blogs" span="blogs" />
                 <InnerLayout className={'event'}>       
             {   
                 blogs.map((event) => 
