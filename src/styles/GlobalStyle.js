@@ -86,6 +86,10 @@ const GlobalStyle = createGlobalStyle`
         border-radius: 10px;
         background-color: #383838;
     }
+    section{
+        max-width: 1360px;
+        margin: 0 auto;
+    }
     a{
         font-family: inherit;
         color: inherit;
