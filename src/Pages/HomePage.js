@@ -15,7 +15,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm  <span>Ziyodullo Rakhmonberdiev</span></h1>
                 <p>
-                Hello there. I am a Web Programmer, Web and Graphic Designer. You have the opportunity to get acquainted with my work through the site. If you have an offer or order, you can contact me through the following social networks. Before you get in touch, pay attention to what field I work in. I wish you an interesting day / night. Sincerely, Ziyodullo Rakhmonberdiev    
+                Hello there. You can call me Ali. I am a Front End React JS Developer. You have the opportunity to get acquainted with my work through the site. If you have an offer or order, you can contact me through the following social networks. Before you get in touch, pay attention to what field I work in. I wish you an interesting day / night. Sincerely, Ziyodullo Rakhmonberdiev    
                 </p>
                 <div className="icons">
                     <a rel="noreferrer" target="_blank" href="https://www.facebook.com/ziyodullo.rakhmanberdiyev/" className="icon facebook">
