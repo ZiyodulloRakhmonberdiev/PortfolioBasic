@@ -71,8 +71,10 @@ const GlobalStyle = createGlobalStyle`
     }
     
     body{
+        max-width: 1920px;
+        margin: 0  auto;
         background-color: var(--background-dark-color);
-        color: var(--font-light-color)
+        color: var(--font-light-color);
     }
     body::-webkit-scrollbar{
         width: 9px;
@@ -111,7 +113,6 @@ const GlobalStyle = createGlobalStyle`
     p{
         font-size: 1rem;
     }
- 
     .menu-icon{
         position: absolute;
         display: none;
@@ -120,6 +121,6 @@ const GlobalStyle = createGlobalStyle`
     
     //Global Media Queries
 
-`
+`;
 
 export default GlobalStyle;
